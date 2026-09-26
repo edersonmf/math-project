@@ -1,4 +1,6 @@
-# Math Project
+# Projeto - Matemática para Ciência de Dados
+
+Trabalho individual: Ederson Marcos Ferreira (emf4@cin.ufpe.br)
 
 Rede neural implementada do zero, com forward e backpropagation escritos à mão,
 treinada para separar as duas luas do `make_moons` (problema não linearmente
